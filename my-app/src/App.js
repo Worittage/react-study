@@ -1,3 +1,4 @@
+import React, { Component } from "react";
 import "./App.css";
 
 function App() {
@@ -27,7 +28,7 @@ const Header = () => {
     <div>
       <a href="#s">Home</a>
       <a href="#s">News Feed</a>
-      <a href="#s">Message</a>
+      <a href="#s">Messages</a>
     </div>
   );
 };
